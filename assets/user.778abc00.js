@@ -1,0 +1,1 @@
+import{T as o,o as n,c as u,a as t,u as a}from"./index.40024f17.js";const d=t("h1",null,"user",-1),i={__name:"user",setup(l){let s=o(),r=()=>{s.push("/AddressAddAndEdit")};return(c,e)=>(n(),u("div",null,[d,t("button",{onClick:e[0]||(e[0]=_=>a(r)())},"\u5730\u5740\u8BBE\u7F6E")]))}};export{i as default};
